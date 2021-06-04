@@ -32,9 +32,7 @@ Syntax highlighted code block
 7. Project-7
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![apple.png](apple.png)
+[Link](url) and ![apple.jpg](apple.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
