@@ -13,8 +13,8 @@ Syntax highlighted code block
 
 # Project 7 Github Page
 
-[lab-01]()
-[lab-02]()
+[lab-01](https://github.com/daphnecarwin/cit281-lab02)
+[lab-02](https://github.com/daphnecarwin/cit281-lab02)
 [lab-03]()
 [lab-04]()
 [lab-05]()
