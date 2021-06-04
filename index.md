@@ -13,26 +13,25 @@ Syntax highlighted code block
 
 # Project 7 Github Page
 
-- lab-01
-- lab-02
-- lab-03
-- lab-04
-- lab-05
-- lab-06
-- lab-07
-- lab-08
-- lab-09
+[lab-01]()
+[lab-02]()
+[lab-03]()
+[lab-04]()
+[lab-05]()
+[lab-06]()
+[lab-07]()
 
-1. Project-1
-2. Project-2
-3. Project-3
-4. Project-4
-5. Project-5
-6. Project-6
-7. Project-7
+[Project-1]()
+[Project-2]()
+[Project-3]()
+[Project-4]()
+[Project-5]()
+[Project-6]()
+[Project-7]()
+[Project-7]()
+[Project-9]()
 
-
-[Link](url) and ![apple.jpg](apple.jpg)
+![apple.jpg](apple.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
