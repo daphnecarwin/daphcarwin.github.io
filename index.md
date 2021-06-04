@@ -1,7 +1,7 @@
 ## Daphne Carwin
 # daphcarwin.github.io
 
-#**Labs**
+**Labs**
 
 [lab-01](https://daphnecarwin.github.io/cit281-lab01/)
 Lab 1 involved creating folders through the command line interface and downloading the technology for the term.
@@ -24,7 +24,7 @@ Lab 6 introduced Github and reviewed classes.
 [lab-07](https://daphnecarwin.github.io/cit281-lab07/)
 Lab 7 gave a intro to using specific github tools involving branches, pages, repositories, etc. 
 
-#**Projects**
+**Projects**
 
 [Project-1](https://daphnecarwin.github.io/cit281-p1/)
 Project 1 was an easy introduction to using command line interface and creating files. 
