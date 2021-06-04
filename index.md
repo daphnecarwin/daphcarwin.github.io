@@ -19,6 +19,8 @@ Syntax highlighted code block
 [lab-06]()
 [lab-07]()
 
+test
+
 [Project-1]()
 [Project-2]()
 [Project-3]()
