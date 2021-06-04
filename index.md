@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Daphne Carwin
 
 You can use the [editor on GitHub](https://github.com/daphnecarwin/daphcarwin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Project 7 Github Page
 
-[lab-01](https://github.com/daphnecarwin/cit281-lab02)
+# [lab-01](https://github.com/daphnecarwin/cit281-lab02)
 [lab-02](https://github.com/daphnecarwin/cit281-lab02)
 [lab-03]()
 [lab-04]()
